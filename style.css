@@ -7,6 +7,7 @@ body{
     background-size: cover;
     height: 100%;
     width: 100%;
+    background-color: aqua;
 }
 
 .quote-box{ 
@@ -20,13 +21,14 @@ body{
 }
 .quote-text{                             
     text-align: center;
-    font-size: 24px;
+    font-size: 23px;
     position: relative;
 }
 .quote-author{                           
     text-align: right;
     margin-top: 40px;
     position: relative;
+    font-size: 19px;
 }
 
 button {
@@ -35,4 +37,6 @@ button {
     background-color: aqua;
     padding: 15px;
     position: relative;
+    font-size: 17px;
+    font-weight: bold;
 }
